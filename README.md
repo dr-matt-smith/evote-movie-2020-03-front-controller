@@ -78,14 +78,4 @@
         }
     ```
 
-- create `composer.json` to define PHP namespaced `Tudublin` classes in `/src`
 
-    ```json
-    {
-      "autoload": {
-        "psr-4": {
-          "Tudublin\\":"src"
-        }
-      }
-    }
-    ```
